@@ -43,7 +43,3 @@ A full-stack web application for managing products, built using **React**, **Dja
 - Implement user authentication.
 - Enhance UI with better styling.
 - Improve error handling and validation.
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
